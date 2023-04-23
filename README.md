@@ -21,6 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish57-droid&show_icons=true&locale=en" alt="manish57-droid" /></p>
 
 
-<h2 align="center">Look the snake is eating my contributions..🐍</h2>
+<h2 align="center">Look the snake is eating my contributions...🐍</h2>
 
 ![snake gif](https://github.com/Manish57-droid/Manish57-droid/blob/output/github-contribution-grid-snake.gif)
