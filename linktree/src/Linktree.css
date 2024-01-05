@@ -1,0 +1,63 @@
+.linktree-container {
+    position: relative;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .background-animation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #ff3399, #9933ff);
+    opacity: 0.5;
+    animation: backgroundAnimation 10s infinite alternate-reverse;
+  }
+  
+  @keyframes backgroundAnimation {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(1.1);
+    }
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .social-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .social-button:hover {
+    transform: scale(1.1);
+  }
+  
+  .twitter {
+    background-color: #1da1f2;
+    color: #fff;
+  }
+  
+  .instagram {
+    background-color: #bc2a8d;
+    color: #fff;
+  }
+  
+  .linkedin {
+    background-color: #0077b5;
+    color: #fff;
+  }
+  
+  /* Add more styles for other social media platforms as needed */
+  
